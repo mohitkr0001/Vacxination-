@@ -138,7 +138,7 @@ dl, dt, dd, ol, ul, li {
 
 
 body {
-	line-height: 1.5;
+	line-height: 1.6;
 	color: #555;
 	font-family: 'Lato', sans-serif;
 }
@@ -12991,4 +12991,3 @@ body:not(.no-transition) #wrapper,
 	margin:0!important;
 	padding:0!important
 }
-
